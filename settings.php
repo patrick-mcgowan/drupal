@@ -68,7 +68,7 @@
  *   'database' => 'databasename',
  *   'username' => 'username',
  *   'password' => 'password',
- *   'host' => 'localhost',
+ *   'host' => 'drrfqha5l5f9xn.cegsmfcumnge.us-east-1.rds.amazonaws.com',
  *   'port' => 3306,
  *   'prefix' => 'myprefix_',
  *   'collation' => 'utf8_general_ci',
